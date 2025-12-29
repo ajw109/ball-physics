@@ -1,2 +1,14 @@
-# ball-physics
-A Python/Pygame project simulating ball physics, including gravity, friction, wall collisions, and mouse-driven throws.
+# Pygame Ball Physics
+
+A simple Pygame script that simulates basic ball physics.
+
+Includes gravity, wall and floor collisions, energy loss on bounce, friction, and mouse interaction for dragging and throwing balls.
+
+## Run
+
+pip install pygame  
+python main.py
+
+## Notes
+
+Built for experimenting with basic physics in Pygame.
